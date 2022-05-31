@@ -1,7 +1,5 @@
 ### Hi there. I'm Marcos Imperio👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Cloud Development;
 - 🌱 I’m currently learning JavaScript, Java, Shell, MsQL and AWS;
 
