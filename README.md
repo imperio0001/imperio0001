@@ -1,4 +1,4 @@
-### Hi there. I'm Marcos Imperio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Hi there. I'm Marcos Imperio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
 
 I just got into the world of programming.
 
