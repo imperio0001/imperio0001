@@ -32,7 +32,7 @@ I just got into the world of programming.
  
 ### GitHub Analytics:
  
-<div align="center">
+<div>
   <a href="https://github.com/imperio0001">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imperio0001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imperio0001&layout=compact&langs_count=7&theme=tokyonight"/>
