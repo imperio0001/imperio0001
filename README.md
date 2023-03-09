@@ -6,7 +6,7 @@ I just got into the world of programming.
   
 ### About my job:
 
-- 🔭 I’m currently working at Itaú as a Systems Development Analyst. 
+🔭 I’m currently working at Itaú as a Systems Development Analyst.
   
   ##
 
